@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="https://img.shields.io/badge/English-60A5FA?style=flat-square" alt="English"/>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/Español-1E293B?style=flat-square" alt="Ver en español"/></a>
+</p>
+
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Fabián Carrillo Méndez — Full-Stack Developer"/>
 </p>
@@ -9,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fabiancarrillocr/"><img src="https://img.shields.io/badge/LinkedIn-fabiancarrillocr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:carrillo982k@gmail.com"><img src="https://img.shields.io/badge/Email-carrillo982k%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://vigia-pr.vercel.app"><img src="https://img.shields.io/badge/Vigía-Live_Demo-00A88A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vigía"/></a>
+  <a href="https://vigia-pr.vercel.app"><img src="https://img.shields.io/badge/Vigía-Project_Overview-00A88A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vigía"/></a>
   <img src="https://img.shields.io/badge/Location-San%20José%2C%20Costa%20Rica-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
