@@ -59,7 +59,7 @@
   <circle cx="1040" cy="240" r="4" fill="#A78BFA"/>
 
   <g class="in">
-    <text x="70" y="88" class="m" font-size="15" fill="#60A5FA" letter-spacing="2">&lt;/&gt;  SOFTWARE DEVELOPER</text>
+    <text x="70" y="88" class="m" font-size="15" fill="#60A5FA" letter-spacing="2">&lt;/&gt;  FULL-STACK DEVELOPER  ·  CREADOR DE VIGÍA</text>
     <text x="68" y="158" class="t" font-size="60" font-weight="800" fill="url(#name)">Fabián Carrillo Méndez</text>
     <rect x="70" y="180" width="340" height="3" rx="1.5" fill="url(#bar)"/>
     <text x="70" y="220" class="t" font-size="20" fill="#CBD5E1">Estudiante de Ingeniería en Desarrollo de Software</text>

@@ -1,48 +1,109 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Fabián Carrillo Méndez — Software Developer"/>
+  <img src="assets/banner.svg" width="100%" alt="Fabián Carrillo Méndez — Full-Stack Developer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=720&lines=Estudiante+de+Ingenier%C3%ADa+en+Desarrollo+de+Software;T%C3%A9cnico+Medio+en+Desarrollo+Web;Desarrollo+Full-Stack+e+integraci%C3%B3n+de+Inteligencia+Artificial;Certificado+en+Industria+4.0+%E2%80%94+SACA+C-101+a+C-104" alt="Presentación"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Estudiante+de+Ingenier%C3%ADa+en+Desarrollo+de+Software;Creador+de+Vig%C3%ADa+%E2%80%94+alertas+inteligentes+para+cl%C3%ADnicas;Django+%C2%B7+Next.js+%C2%B7+Machine+Learning+%C2%B7+IA+generativa;Docker+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Linux;Certificado+en+Industria+4.0+%E2%80%94+SACA+C-101+a+C-104" alt="Presentación"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/fabiancarrilloCR"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/fabiancarrillocr/"><img src="https://img.shields.io/badge/LinkedIn-fabiancarrillocr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:carrillo982k@gmail.com"><img src="https://img.shields.io/badge/Email-carrillo982k%40gmail.com-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://vigia-pr.vercel.app"><img src="https://img.shields.io/badge/Vigía-Presentación-00A88A?style=for-the-badge&logo=vercel&logoColor=white" alt="Vigía"/></a>
   <img src="https://img.shields.io/badge/Ubicación-San%20José%2C%20Costa%20Rica-1E293B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
-  <img src="https://img.shields.io/badge/Idiomas-Español%20%7C%20Inglés%20avanzado-1E293B?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Idiomas"/>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## Perfil profesional
 
-Soy **Técnico Medio en Desarrollo Web** egresado del Colegio Técnico Profesional Don Bosco y actualmente curso la carrera de **Ingeniería en Desarrollo de Software**. Mi formación combina el desarrollo de aplicaciones web modernas con una base sólida en **tecnologías de Industria 4.0**, automatización, infraestructura de red y administración de sistemas Linux.
+Soy **Técnico Medio en Desarrollo Web** egresado del Colegio Técnico Profesional Don Bosco y estudiante de **Ingeniería en Desarrollo de Software**. Me especializo en el desarrollo de aplicaciones **full-stack** de punta a punta: desde el diseño de la arquitectura y el modelado de datos hasta la interfaz de usuario, la integración de inteligencia artificial y el despliegue en producción.
 
-Tengo experiencia práctica en proyectos **full-stack**, tanto en el frontend como en el backend, diseñando interfaces responsivas, construyendo APIs REST, modelando bases de datos relacionales y vectoriales, e integrando servicios de **inteligencia artificial** para resolver problemas concretos. Trabajo con un enfoque en la seguridad de las aplicaciones, aplicando mecanismos de autenticación, autorización y control de acceso basado en roles.
+Mi proyecto más reciente y de mayor alcance es **Vigía**, una plataforma SaaS multi-tenant que monitorea indicadores clínicos, detecta anomalías combinando estadística, series de tiempo y machine learning, y genera recomendaciones accionables mediante IA generativa. En él diseñé y construí el backend en **Django REST Framework**, el procesamiento asíncrono con **Celery y Redis**, el frontend en **Next.js y React**, la integración con un sistema hospitalario externo y la infraestructura de despliegue con **Docker** y HTTPS automático.
 
-Me caracterizo por el pensamiento crítico, la capacidad de resolver problemas de forma estructurada y la colaboración efectiva en equipos de desarrollo. Mi objetivo es seguir creciendo como ingeniero de software, especializándome en arquitecturas en la nube, ciberseguridad y sistemas distribuidos.
+Complemento el desarrollo de software con una formación sólida en **Industria 4.0**, redes y administración de sistemas **Linux**, avalada por certificaciones de SACA y Cisco Networking Academy. Me caracterizo por el pensamiento crítico, la resolución estructurada de problemas y el trabajo colaborativo, y mi objetivo es seguir creciendo hacia arquitecturas en la nube, ciberseguridad y sistemas distribuidos.
 
 <table>
   <tr>
-    <th align="left">Formación</th>
-    <th align="left">Áreas de especialización</th>
+    <th align="left" width="50%">Formación</th>
+    <th align="left" width="50%">Áreas de especialización</th>
   </tr>
   <tr>
     <td valign="top">
       <b>Ingeniería en Desarrollo de Software</b><br/>
       <sub>En curso</sub><br/><br/>
       <b>Técnico Medio en Desarrollo Web</b><br/>
-      <sub>Colegio Técnico Profesional Don Bosco — San José, Costa Rica · 2026</sub>
+      <sub>Colegio Técnico Profesional Don Bosco — San José, Costa Rica · 2026</sub><br/><br/>
+      <b>Idiomas</b><br/>
+      <sub>Español nativo · Inglés avanzado</sub>
     </td>
     <td valign="top">
-      Desarrollo de aplicaciones full-stack<br/>
-      Integración de APIs e inteligencia artificial<br/>
-      Industria 4.0 y automatización industrial<br/>
-      Redes, Linux y fundamentos de ciberseguridad
+      Arquitectura de aplicaciones SaaS multi-tenant<br/>
+      Desarrollo full-stack con Django y Next.js<br/>
+      Machine learning e IA generativa aplicada<br/>
+      Contenedores, despliegue y servidores Linux<br/>
+      Industria 4.0, redes y fundamentos de ciberseguridad
     </td>
   </tr>
 </table>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
+
+## Proyecto destacado
+
+<p align="center">
+  <a href="https://vigia-pr.vercel.app"><img src="assets/vigia.svg" width="100%" alt="Vigía — Sistema de alertas inteligentes para clínicas médicas"/></a>
+</p>
+
+**Vigía** es una plataforma SaaS que permite a clínicas médicas anticiparse a los problemas operativos. Monitorea 11 indicadores —cancelaciones, ausentismo, ocupación de agenda, tiempos de espera, ingresos, retención y NPS, entre otros—, detecta desviaciones con tres algoritmos complementarios y, ante alertas de severidad alta o crítica, genera con IA un análisis de causa probable y acciones concretas.
+
+<table>
+  <tr>
+    <th align="left" width="33%">Backend e inteligencia</th>
+    <th align="left" width="33%">Frontend</th>
+    <th align="left" width="34%">Infraestructura</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      API REST con Django 6 y DRF<br/>
+      Autenticación JWT con refresh automático<br/>
+      RBAC con 6 roles y scoping por clínica y sede<br/>
+      Detección: estadística + Prophet + PyOD<br/>
+      Recomendaciones y copiloto con Claude API<br/>
+      Tareas asíncronas con Celery y Celery Beat<br/>
+      Sincronización con HIS/ERP externo<br/>
+      Planes y pagos con Stripe y Tilopay<br/>
+      Notificaciones por correo SMTP
+    </td>
+    <td valign="top">
+      Next.js 16 (App Router) y React 19<br/>
+      TypeScript y Tailwind CSS v4<br/>
+      Estado global con Zustand<br/>
+      Gráficos de KPIs con Recharts<br/>
+      Animaciones con Framer Motion y GSAP<br/>
+      Componentes accesibles con Radix UI<br/>
+      Interfaz bilingüe con traducción asistida por IA<br/>
+      Tema claro y oscuro, recorrido guiado<br/>
+      Sistema de diseño y guía de marca propios
+    </td>
+    <td valign="top">
+      Docker y Docker Compose (8 servicios)<br/>
+      PostgreSQL 16 y Redis 7<br/>
+      Caddy como reverse proxy con TLS automático<br/>
+      Gunicorn y WhiteNoise<br/>
+      Despliegue en VPS con Ubuntu<br/>
+      Scripts de despliegue automatizado<br/>
+      Gestión segura de secretos por entorno
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/CarrilloCR/vigia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=es" alt="vigia"/></a>
+  <a href="https://github.com/CarrilloCR/vigia-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia-frontend&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=es" alt="vigia-frontend"/></a>
+  <a href="https://github.com/CarrilloCR/deploy-vigia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=deploy-vigia&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=es" alt="deploy-vigia"/></a>
+  <a href="https://github.com/CarrilloCR/vigia-pr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia-pr&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=es" alt="vigia-pr"/></a>
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
@@ -51,43 +112,72 @@ Me caracterizo por el pensamiento crítico, la capacidad de resolver problemas d
 ### Lenguajes de programación
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Recharts"/>
+  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
 
 ### Backend y servicios
 <p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
   <img src="https://img.shields.io/badge/REST_APIs-0F766E?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/WebSockets-111827?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+</p>
+
+### Inteligencia artificial y ciencia de datos
+<p>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
   <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Prophet"/>
+  <img src="https://img.shields.io/badge/PyOD-1F2937?style=for-the-badge&logo=python&logoColor=white" alt="PyOD"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ### Bases de datos
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/ChromaDB-Base_vectorial-FF6F61?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vectorial-FF6F61?style=for-the-badge" alt="ChromaDB"/>
 </p>
 
-### Herramientas y plataformas
+### DevOps, infraestructura y herramientas
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy"/>
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
@@ -95,65 +185,12 @@ Me caracterizo por el pensamiento crítico, la capacidad de resolver problemas d
 
 | Área | Competencias |
 |:--|:--|
-| Ingeniería de software | Programación Orientada a Objetos, diseño modular, integración de APIs |
-| Seguridad de aplicaciones | Autenticación y autorización, hashing de contraseñas, rutas protegidas, RBAC |
-| Sistemas en tiempo real | Comunicación bidireccional con WebSockets, notificaciones y mensajería |
-| Inteligencia artificial | Integración de modelos de lenguaje (OpenAI, DeepSeek), bases de datos vectoriales |
-| Infraestructura | Redes, administración de Linux, fundamentos de ciberseguridad, Industria 4.0 |
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
-## Experiencia y proyectos
-
-### Noctiria — Plataforma ecosistema para psicólogos
-**Frontend Developer** · 2025
-
-Plataforma full-stack que permite a profesionales en psicología gestionar a sus pacientes y ofrecer entornos de aprendizaje asistidos por inteligencia artificial.
-
-- Desarrollo de interfaces responsivas y accesibles con **React**, **TypeScript** y **Tailwind CSS**.
-- Integración del frontend con servicios backend construidos en **Django REST Framework** mediante APIs RESTful.
-- Implementación de chat y notificaciones en tiempo real utilizando **WebSockets**.
-- Diseño y conexión de bases de datos relacionales (**MySQL**) y vectoriales (**ChromaDB**).
-- Implementación de autenticación segura, protección de contraseñas y rutas protegidas.
-- Desarrollo de control de acceso basado en roles: Administrador, Psicólogo y Usuario.
-- Colaboración en comunidades moderadas por inteligencia artificial mediante integración con **DeepSeek**.
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square&logo=socketdotio&logoColor=white"/>
-</p>
-
-### Sistema Digital de Asistencia Legal
-**Backend Developer** · 2024
-
-Plataforma en línea que centraliza la información de las contralorías de servicios de Costa Rica, facilitando a la ciudadanía el acceso a orientación legal.
-
-- Construcción de servicios backend con **.NET**, complementados con **JavaScript**, **jQuery** y **Tailwind CSS**.
-- Integración de la **API de OpenAI** para implementar un asistente conversacional de orientación legal.
-- Implementación de almacenamiento dinámico de datos y actualización de la interfaz en tiempo de ejecución.
-
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
-
-## Repositorios destacados
-
-<p align="center">
-  <a href="https://github.com/CarrilloCR/vigia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&locale=es" alt="vigia"/></a>
-  <a href="https://github.com/CarrilloCR/vigia-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia-frontend&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&locale=es" alt="vigia-frontend"/></a>
-  <a href="https://github.com/CarrilloCR/SIDEAL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=SIDEAL&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&locale=es" alt="SIDEAL"/></a>
-  <a href="https://github.com/CarrilloCR/ecodent-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=ecodent-website&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=A78BFA&text_color=CBD5E1&locale=es" alt="ecodent-website"/></a>
-</p>
+| Arquitectura de software | SaaS multi-tenant, APIs REST, separación frontend/backend, procesamiento asíncrono con colas |
+| Seguridad de aplicaciones | Autenticación JWT, hashing de contraseñas, RBAC, aislamiento de datos por cliente, gestión de secretos |
+| Datos e inteligencia artificial | Detección de anomalías, series de tiempo, machine learning, integración de LLM, bases vectoriales |
+| Integraciones | Sistemas hospitalarios externos (HIS/ERP), pasarelas de pago, correo transaccional, webhooks |
+| DevOps | Contenerización, orquestación con Compose, reverse proxy, TLS, despliegue en servidores Linux |
+| Infraestructura | Redes, Industria 4.0, administración de Linux, fundamentos de ciberseguridad |
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
@@ -172,13 +209,6 @@ Ruta de certificación industrial reconocida internacionalmente, enfocada en ope
   <img src="assets/certs/saca-c104.svg" width="49%" alt="SACA C-104 Networking Systems"/>
 </p>
 
-| Código | Certificación | Competencias acreditadas | Fecha |
-|:-:|:--|:--|:-:|
-| `C-101` | Certified Industry 4.0 Associate — Basic Operations | Seguridad industrial, sistemas eléctricos, sensores, fundamentos de PLC | Dic 2024 |
-| `C-102` | Certified Industry 4.0 Associate — Advanced Operations | Programación de PLC, control de procesos, mantenimiento productivo | Jun 2025 |
-| `C-103` | Certified Industry 4.0 Associate — Robot System Operations | Operación y programación de sistemas robóticos industriales | Nov 2025 |
-| `C-104` | Certified Industry 4.0 Associate — Networking Systems | Redes industriales, IIoT, SCADA, AIDC (RFID/NFC) | 2026 |
-
 ### Cisco Networking Academy y Python Institute
 
 <p align="center">
@@ -191,9 +221,9 @@ Ruta de certificación industrial reconocida internacionalmente, enfocada en ope
 
 ## Intereses profesionales
 
-| Cloud Computing | Ciberseguridad | Sistemas Linux | Desarrollo Frontend |
+| Cloud Computing | Ciberseguridad | Sistemas Linux | Inteligencia artificial |
 |:--|:--|:--|:--|
-| Despliegue y escalabilidad de aplicaciones en infraestructura en la nube. | Protección de aplicaciones, redes y datos frente a amenazas. | Administración, automatización y operación de servidores. | Construcción de interfaces modernas, accesibles y de alto rendimiento. |
+| Despliegue y escalabilidad de aplicaciones en infraestructura en la nube. | Protección de aplicaciones, redes y datos frente a amenazas. | Administración, automatización y operación de servidores. | Modelos de lenguaje y machine learning aplicados a problemas reales. |
 
 ## Habilidades interpersonales
 
@@ -210,10 +240,6 @@ Pensamiento crítico · Resolución de problemas · Trabajo en equipo · Gestió
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CarrilloCR&hide_border=true&background=0F172A&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC&locale=es" alt="Racha de contribuciones"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarrilloCR&bg_color=0F172A&color=CBD5E1&line=60A5FA&point=F8FAFC&area=true&area_color=1E3A8A&hide_border=true" width="100%" alt="Gráfico de actividad"/>
 </p>
 
 <p align="center">
