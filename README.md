@@ -1,8 +1,3 @@
-<p align="right">
-  <img src="https://img.shields.io/badge/English-60A5FA?style=flat-square" alt="English"/>
-  <a href="README.es.md"><img src="https://img.shields.io/badge/Español-1E293B?style=flat-square" alt="Ver en español"/></a>
-</p>
-
 <p align="center">
   <img src="assets/banner.svg" width="100%" alt="Fabián Carrillo Méndez — Full-Stack Developer"/>
 </p>
