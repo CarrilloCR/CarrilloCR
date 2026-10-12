@@ -101,8 +101,8 @@ I complement software development with a solid background in **Industry 4.0**, n
 <p align="center">
   <a href="https://github.com/CarrilloCR/vigia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=en" alt="vigia"/></a>
   <a href="https://github.com/CarrilloCR/vigia-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia-frontend&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=en" alt="vigia-frontend"/></a>
-  <a href="https://github.com/CarrilloCR/deploy-vigia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=deploy-vigia&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=en" alt="deploy-vigia"/></a>
-  <a href="https://github.com/CarrilloCR/vigia-pr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=vigia-pr&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=en" alt="vigia-pr"/></a>
+  <a href="https://github.com/CarrilloCR/blanco"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=blanco&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=en" alt="blanco"/></a>
+  <a href="https://github.com/CarrilloCR/his-rep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarrilloCR&repo=his-rep&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=00C9A7&text_color=CBD5E1&locale=en" alt="his-rep"/></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
