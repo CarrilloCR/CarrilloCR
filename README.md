@@ -181,17 +181,6 @@ I complement software development with a solid background in **Industry 4.0**, n
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 </p>
 
-### Concepts & Practices
-
-| Area | Skills |
-|:--|:--|
-| Software architecture | Multi-tenant SaaS, REST APIs, frontend/backend separation, queue-based async processing |
-| Application security | JWT authentication, password hashing, RBAC, per-tenant data isolation, secrets management |
-| Data & artificial intelligence | Anomaly detection, time series, machine learning, LLM integration, vector databases |
-| Integrations | External hospital systems (HIS/ERP), payment gateways, transactional email, webhooks |
-| DevOps | Containerization, Compose orchestration, reverse proxy, TLS, Linux server deployment |
-| Infrastructure | Networking, Industry 4.0, Linux administration, cybersecurity fundamentals |
-
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 ## Certifications
@@ -216,8 +205,6 @@ An internationally recognized industrial certification path focused on advanced 
   <img src="assets/certs/python-essentials.svg" width="32%" alt="Python Essentials 1 and 2"/>
   <img src="assets/certs/linux-fundamentals.svg" width="32%" alt="Linux Fundamentals"/>
 </p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""/></p>
 
