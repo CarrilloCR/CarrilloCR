@@ -9,6 +9,6 @@
   </defs>
   <rect width="1200" height="120" rx="18" fill="url(#bg)"/>
   <rect width="1200" height="120" rx="18" fill="url(#grid)" opacity="0.55"/>
-  <text x="600" y="58" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#E2E8F0">Construyendo software con propósito, seguridad y escalabilidad.</text>
+  <text x="600" y="58" text-anchor="middle" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#E2E8F0">Building software with purpose, security and scalability.</text>
   <text x="600" y="86" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="13" fill="#60A5FA" letter-spacing="2">FABIÁN CARRILLO MÉNDEZ  ·  COSTA RICA</text>
 </svg>

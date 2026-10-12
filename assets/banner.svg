@@ -59,23 +59,23 @@
   <circle cx="1040" cy="240" r="4" fill="#A78BFA"/>
 
   <g class="in">
-    <text x="70" y="88" class="m" font-size="15" fill="#60A5FA" letter-spacing="2">&lt;/&gt;  FULL-STACK DEVELOPER  ·  CREADOR DE VIGÍA</text>
+    <text x="70" y="88" class="m" font-size="15" fill="#60A5FA" letter-spacing="2">&lt;/&gt;  FULL-STACK DEVELOPER  ·  CREATOR OF VIGÍA</text>
     <text x="68" y="158" class="t" font-size="60" font-weight="800" fill="url(#name)">Fabián Carrillo Méndez</text>
     <rect x="70" y="180" width="340" height="3" rx="1.5" fill="url(#bar)"/>
-    <text x="70" y="220" class="t" font-size="20" fill="#CBD5E1">Estudiante de Ingeniería en Desarrollo de Software</text>
-    <text x="70" y="250" class="t" font-size="17" fill="#94A3B8">Técnico Medio en Desarrollo Web  ·  San José, Costa Rica</text>
+    <text x="70" y="220" class="t" font-size="20" fill="#CBD5E1">Software Development Engineering Student</text>
+    <text x="70" y="250" class="t" font-size="17" fill="#94A3B8">Web Development Technician  ·  San José, Costa Rica</text>
   </g>
 
   <g class="m" font-size="13" font-weight="600">
     <rect x="70"  y="276" width="118" height="30" rx="15" fill="#1E293B" stroke="#334155"/>
     <text x="129" y="296" text-anchor="middle" fill="#93C5FD">Full-Stack</text>
     <rect x="198" y="276" width="128" height="30" rx="15" fill="#1E293B" stroke="#334155"/>
-    <text x="262" y="296" text-anchor="middle" fill="#C4B5FD">Industria 4.0</text>
+    <text x="262" y="296" text-anchor="middle" fill="#C4B5FD">Industry 4.0</text>
     <rect x="336" y="276" width="96"  height="30" rx="15" fill="#1E293B" stroke="#334155"/>
-    <text x="384" y="296" text-anchor="middle" fill="#93C5FD">Redes</text>
+    <text x="384" y="296" text-anchor="middle" fill="#93C5FD">Networking</text>
     <rect x="442" y="276" width="86"  height="30" rx="15" fill="#1E293B" stroke="#334155"/>
     <text x="485" y="296" text-anchor="middle" fill="#FDE68A">Linux</text>
     <rect x="538" y="276" width="140" height="30" rx="15" fill="#1E293B" stroke="#334155"/>
-    <text x="608" y="296" text-anchor="middle" fill="#6EE7B7">IA aplicada</text>
+    <text x="608" y="296" text-anchor="middle" fill="#6EE7B7">Applied AI</text>
   </g>
 </svg>
